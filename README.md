@@ -9,3 +9,6 @@ Cancer Genomics
 Rare and Hereditary Diseases
 Health Monitoring Systems
 Personalized Medicine
+
+## ⏳ 6-Month Countdown
+![Countdown](https://raw.githubusercontent.com/your-username/your-repo/main/countdown.png)
