@@ -19,3 +19,4 @@ jobs:
         with:
           message: "Update countdown image"
           add: 'countdown.png'
+          push: --force
