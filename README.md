@@ -4,11 +4,11 @@ I'm passionate about healthcare, especially in the areas of cancer research and 
 
 🧠 Interests
 
-Biomedical Data Analysis
-Cancer Genomics
-Rare and Hereditary Diseases
-Health Monitoring Systems
-Personalized Medicine
+- Biomedical Data Analysis
+- Cancer Genomics
+- Rare and Hereditary Diseases
+- Health Monitoring Systems
+- Personalized Medicine
 
 ⏳ 6-Month Countdown
 
