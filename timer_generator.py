@@ -1,7 +1,7 @@
 from datetime import datetime
 from PIL import Image, ImageDraw, ImageFont
 
-start = datetime(2025, 7, 3)
+start = datetime(2025, 7, 2)
 end = datetime(2026, 1, 4)
 now = datetime.utcnow()
 
