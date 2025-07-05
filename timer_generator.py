@@ -2,7 +2,7 @@ from datetime import datetime
 from PIL import Image, ImageDraw, ImageFont
 
 start = datetime(2025, 7, 2)
-end = datetime(2026, 1, 4)
+end = datetime(2026, 1, 2)
 now = datetime.utcnow()
 
 total = (end - start).total_seconds()
