@@ -8,7 +8,7 @@ now = datetime.utcnow()
 total = (end - start).total_seconds()
 elapsed = (now - start).total_seconds()
 progress = max(0, min(elapsed / total, 1))
-percent = int(progress * 100)
+percent = round(progress * 100, 1)  
 
 size = 150
 bg_color = "white"
