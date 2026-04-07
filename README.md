@@ -1,11 +1,5 @@
 
-Something I'm learning about
-- Biomedical Data Analysis
-- Cancer Genomics
-- Rare and Hereditary Diseases
-- Health Monitoring Systems
-- Personalized Medicine
+Hello, my name is Kyle based on S.K or France
 
-6-Month Countdown
-
-![Countdown](https://raw.githubusercontent.com/suuujuuun/suuujuuun/main/countdown.png)
+I'm really worried about the human health care
+Especially Cancer, Brain tumor, blood vascolar system problem. actually everything could treathen toward human life then
